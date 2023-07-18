@@ -14,13 +14,12 @@ Please note we have a [Code of Conduct](#code-of-conduct), please follow it in
 all your interactions with the project and its community.
 
 ## Coding Standards
-
+This is a simple interest calaculator
 
 
 ## Programming Languages
 
 Scripts are written for "bash" shell.
-Python code is written at the [Python 3.6](https://docs.python.org/3.6/) level.
 
 ## Managing Dependencies
 
